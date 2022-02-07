@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HW3
 {
-    public static class SweetArrExtencion
+    public static class SweetArrExtention
     {
         public static Sweet Search(this Sweet[] sweets, string name, uint calories)
         {

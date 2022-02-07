@@ -24,15 +24,5 @@ namespace HW3.Sweets
         {
             IsMelted = false;
         }
-
-        void IChocolate.Melt()
-        {
-            throw new NotImplementedException();
-        }
-
-        void IChocolate.Freeze()
-        {
-            throw new NotImplementedException();
-        }
     }
 }
