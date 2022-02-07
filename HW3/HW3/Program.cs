@@ -16,7 +16,7 @@ namespace HW3
                 new BlackChocolate("milka", 121, false),
             });
 
-            Console.WriteLine("Вы получиоли подарок:");
+            Console.WriteLine("Вы получили подарок:");
 
             foreach (Sweet sweet in present.Sweets)
             {
